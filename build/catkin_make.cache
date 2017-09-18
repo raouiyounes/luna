@@ -1,0 +1,2 @@
+node_example
+-DCATKIN_DEVEL_PREFIX=/home/younes/Bureau/rospy1/devel -DCMAKE_INSTALL_PREFIX=/home/younes/Bureau/rospy1/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/younes/Bureau/rospy1/devel
+
+Name: node_example
+Description: Description of node_example
+Version: 0.0.1
+Cflags: -I/home/younes/Bureau/rospy1/devel/include
+Libs: -L/home/younes/Bureau/rospy1/devel/lib 
+Requires: dynamic_reconfigure message_runtime roscpp rosgraph_msgs rospy std_msgs visualization_msgs
